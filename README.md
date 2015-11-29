@@ -1,1 +1,1 @@
-# scalable-django-on-aws-ec2
+# Scalable Django project on AWS EC2
