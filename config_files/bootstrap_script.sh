@@ -10,3 +10,5 @@ aws s3 cp s3://oudtestbucket/oud_nginx.conf ./sites-enabled/oud_nginx.conf
 
 service nginx start
 chkconfig nginx on
+
+pip install --upgrade pip
